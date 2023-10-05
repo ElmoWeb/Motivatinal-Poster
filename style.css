@@ -1,0 +1,36 @@
+html {
+  background-color: black;
+  color: aliceblue;
+  font-size: 16px;
+  
+}
+
+.motivation {
+  margin-left: 25%;
+  margin-top: 5%;
+  width: 50%
+  
+}
+
+#barney {
+  border: 5px solid white;
+  width: 400px; height: 500px;
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Caveat', cursive;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2rem;
+}
+
+p {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+
+#signiture {
+  text-align: end;
+  margin-right: 25%;
+}
