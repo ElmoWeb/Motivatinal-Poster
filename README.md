@@ -1,2 +1,3 @@
 # Motivatinal-Poster
-First CSS project
+First CSS+HTML project
+Bootcamp by Dr. Angela Yu
